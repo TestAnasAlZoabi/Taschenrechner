@@ -1,0 +1,15 @@
+C:\Users\anasa\OneDrive\Desktop\C Sharp\Rechner\Rechner\bin\Debug\net6.0\Rechner.exe
+C:\Users\anasa\OneDrive\Desktop\C Sharp\Rechner\Rechner\bin\Debug\net6.0\Rechner.deps.json
+C:\Users\anasa\OneDrive\Desktop\C Sharp\Rechner\Rechner\bin\Debug\net6.0\Rechner.runtimeconfig.json
+C:\Users\anasa\OneDrive\Desktop\C Sharp\Rechner\Rechner\bin\Debug\net6.0\Rechner.dll
+C:\Users\anasa\OneDrive\Desktop\C Sharp\Rechner\Rechner\bin\Debug\net6.0\Rechner.pdb
+C:\Users\anasa\OneDrive\Desktop\C Sharp\Rechner\Rechner\obj\Debug\net6.0\Rechner.csproj.AssemblyReference.cache
+C:\Users\anasa\OneDrive\Desktop\C Sharp\Rechner\Rechner\obj\Debug\net6.0\Rechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anasa\OneDrive\Desktop\C Sharp\Rechner\Rechner\obj\Debug\net6.0\Rechner.AssemblyInfoInputs.cache
+C:\Users\anasa\OneDrive\Desktop\C Sharp\Rechner\Rechner\obj\Debug\net6.0\Rechner.AssemblyInfo.cs
+C:\Users\anasa\OneDrive\Desktop\C Sharp\Rechner\Rechner\obj\Debug\net6.0\Rechner.csproj.CoreCompileInputs.cache
+C:\Users\anasa\OneDrive\Desktop\C Sharp\Rechner\Rechner\obj\Debug\net6.0\Rechner.dll
+C:\Users\anasa\OneDrive\Desktop\C Sharp\Rechner\Rechner\obj\Debug\net6.0\refint\Rechner.dll
+C:\Users\anasa\OneDrive\Desktop\C Sharp\Rechner\Rechner\obj\Debug\net6.0\Rechner.pdb
+C:\Users\anasa\OneDrive\Desktop\C Sharp\Rechner\Rechner\obj\Debug\net6.0\Rechner.genruntimeconfig.cache
+C:\Users\anasa\OneDrive\Desktop\C Sharp\Rechner\Rechner\obj\Debug\net6.0\ref\Rechner.dll
